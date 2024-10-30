@@ -1,0 +1,36 @@
+{
+    "tramites": [
+    {
+        "nombre": "Solicitud de permiso de trabajo",
+        "palabras_clave": ["permiso de trabajo", "trabajo", "solicitar trabajo"],
+        "requisitos": ["cédula", "carta de oferta laboral", "certificado de antecedentes penales"]
+    },
+    {
+        "nombre": "Solicitud de beca estudiantil",
+        "palabras_clave": ["beca", "estudiar", "solicitar beca"],
+        "requisitos": ["cédula", "certificado de notas", "carta de recomendación"]
+    },
+    {
+        "nombre": "Solicitud de ayuda social",
+        "palabras_clave": ["ayuda social", "ayuda económica", "solicitar ayuda"],
+        "requisitos": ["cédula", "recibo de servicios públicos", "carta de solicitud"]
+    },
+    {
+        "nombre": "Solicitud de inscripción en el seguro social",
+        "palabras_clave": ["seguro social", "inscripción seguro", "seguro médico"],
+        "requisitos": ["cédula", "acta de nacimiento", "ficha médica"]
+    },
+    {
+        "nombre": "Solicitud de licencia de conducir",
+        "palabras_clave": ["licencia de conducir", "conducir", "solicitar licencia"],
+        "requisitos": ["cédula", "certificado de salud", "certificado de antecedentes penales"]
+    },
+    {
+        "nombre": "Solicitud de pasaporte",
+        "palabras_clave": ["pasaporte", "solicitar pasaporte", "viajar"],
+        "requisitos": ["cédula", "acta de nacimiento", "certificado de antecedentes penales"]
+    }
+],
+    "saludo": ["Hola! ¿En qué puedo ayudarte?", "Buenos días, ¿en qué puedo ayudarte?", "Hola, ¿en qué puedo ayudarte hoy?"],
+    "despedida": ["Gracias por usar nuestro servicio", "Hasta luego", "Adiós"]
+}
