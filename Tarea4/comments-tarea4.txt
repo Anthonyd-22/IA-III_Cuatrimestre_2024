@@ -1,0 +1,7 @@
+https://github.com/Anthonyd-22/IA-III_Cuatrimestre_2024/tree/master/Tarea4
+
+COMENTARIOS:
+    1. El archivo con la resolución de la tarea es main.py
+    2. En la base de conocimiento se encuentran las palabras claves que permiten al chatbot responder
+       que tipo de trámite se esté consultando.
+

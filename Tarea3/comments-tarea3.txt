@@ -1,0 +1,3 @@
+https://github.com/Anthonyd-22/IA-III_Cuatrimestre_2024/tree/master/Tarea3
+
+COMENTARIO: El archivo con la resolución de la tarea es main.py
