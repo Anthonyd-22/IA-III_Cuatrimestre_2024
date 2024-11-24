@@ -1,7 +1,6 @@
 from typing import Final
 from openai import OpenAI
 import json
-import os
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 from tinydb import TinyDB, Query, JSONStorage
